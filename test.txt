@@ -1,0 +1,14 @@
+{
+    "type": "INSERT",
+    "dateTime": "2019-04-11T13:15:16.888411+03:00",
+    "table": "tblexample",
+    "schema": "public",
+    "data": {
+        "id": "115",
+        "key2": "new",
+        "value1": "v1",
+        "value2": "v2",
+        "updatedAt": null,
+        "createdAt": null
+    }
+}
